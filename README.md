@@ -1,5 +1,7 @@
 # Install
 
+Install `virtualenv` for a Virtual Environment.
+
 ```sh
 python3.11 -m venv env && source env/bin/activate && pip install -r requirements.txt
 ```
