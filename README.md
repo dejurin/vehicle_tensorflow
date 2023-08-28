@@ -1,16 +1,11 @@
 # Install
 
-Install `virtualenv` for a Virtual Environment.
-
-```sh
-python3.11 -m venv env && source env/bin/activate && pip install -r requirements.txt
-```
+0. Install `pip install virtualenv` for a Virtual Environment;
+1. `python3.11 -m venv env && source env/bin/activate && pip install -r requirements.txt`.
 
 ## Use
 
-```sh
-python vehicle_detection_main.py imshow
-```
+`python vehicle_detection_main.py imshow`
 
 ---
 
