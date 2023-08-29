@@ -7,6 +7,3 @@
 
 `python vehicle_detection_main.py imshow`
 
----
-
-**Based**: https://github.com/ahmetozlu/vehicle_counting_tensorflow
